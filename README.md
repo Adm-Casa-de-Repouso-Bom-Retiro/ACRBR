@@ -49,7 +49,8 @@ RNF004 - O sistema deve permitir salvar as informações sem perder dados já ca
 ---
 
 ## Modelo do Banco de Dados
-  <img width="693" height="537" alt="modelo-banco png" src="https://github.com/user-attachments/assets/22fac24b-ed12-4c3e-91cf-1b67111817a8" />
+ <img width="682" height="579" alt="Captura de tela de 2026-03-31 14-22-30" src="https://github.com/user-attachments/assets/b5837e68-bd7e-4aff-b931-ca52de76eccf" />
+
 
 
 
