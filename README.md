@@ -11,6 +11,11 @@
 
 ---
 
+## Link de Acesso:
+- Link Vercel (Deploy Frontend): https://acrbr.vercel.app/
+- Link Fabroku (Deploy Backend): https://acrbr.class.fabricadesoftware.ifc.edu.br/
+
+---
 ## Item 1: Descrição do Projeto
 O Administrativo Casa de Repouso Bom Retiro (ACRBR) é um sistema web de gerenciamento desenvolvido para atender às necessidades operacionais e administrativas do lar de idosos (casa de repouso). O sistema tem como objetivo centralizar e organizar as informações dos residentes, profissionais de saúde, rotinas de cuidado, proporcionando mais eficiência, segurança e qualidade no atendimento prestado aos idosos.
 
